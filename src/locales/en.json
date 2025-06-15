@@ -1,0 +1,88 @@
+{
+  "welcome": {
+    "title": "Math Fun",
+    "subtitle": "Learn Math in Your Language",
+    "startLearning": "Start Learning",
+    "selectLanguage": "Select Your Language"
+  },
+  "languages": {
+    "amharic": "አማርኛ",
+    "oromo": "Afaan Oromo",
+    "english": "English"
+  },
+  "menu": {
+    "title": "Math Learning",
+    "numbers": "Numbers & Counting",
+    "shapes": "Shapes & Geometry", 
+    "measurement": "Measurement",
+    "data": "Data & Charts"
+  },
+  "activities": {
+    "counting": {
+      "title": "Counting",
+      "instruction": "Count the objects and select the correct number",
+      "checkAnswer": "Check Answer",
+      "next": "Next",
+      "correct": "Correct! Well done!",
+      "incorrect": "Try again!",
+      "exercises": {
+        "countStars": "Count the stars",
+        "countApples": "Count the apples",
+        "countCircles": "Count the circles",
+        "countSquares": "Count the squares"
+      }
+    },
+    "shapes": {
+      "title": "Shapes",
+      "instruction": "What shape is this?",
+      "circle": "Circle",
+      "square": "Square", 
+      "triangle": "Triangle",
+      "rectangle": "Rectangle",
+      "exercises": {
+        "identifyShape": "Identify this shape",
+        "matchShape": "Match the shapes",
+        "findShape": "Find the shape"
+      }
+    },
+    "addition": {
+      "title": "Addition",
+      "instruction": "Add the numbers together",
+      "plus": "plus",
+      "equals": "equals"
+    },
+    "subtraction": {
+      "title": "Subtraction", 
+      "instruction": "Subtract the numbers",
+      "minus": "minus",
+      "equals": "equals"
+    }
+  },
+  "numbers": {
+    "zero": "Zero",
+    "one": "One",
+    "two": "Two", 
+    "three": "Three",
+    "four": "Four",
+    "five": "Five",
+    "six": "Six",
+    "seven": "Seven",
+    "eight": "Eight",
+    "nine": "Nine",
+    "ten": "Ten"
+  },
+  "navigation": {
+    "back": "Back",
+    "home": "Home",
+    "settings": "Settings",
+    "progress": "Progress"
+  },
+  "feedback": {
+    "excellent": "Excellent!",
+    "great": "Great job!",
+    "good": "Good work!",
+    "tryAgain": "Try again!",
+    "almostThere": "Almost there!"
+  }
+}
+

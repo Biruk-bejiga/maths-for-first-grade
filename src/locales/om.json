@@ -1,0 +1,88 @@
+{
+  "welcome": {
+    "title": "Taphi Barumsaa",
+    "subtitle": "Afaan Oromootiin Herrega Baradhu",
+    "startLearning": "Baruumsa Jalqabi",
+    "selectLanguage": "Afaan Keessan Filaadhaa"
+  },
+  "languages": {
+    "amharic": "አማርኛ",
+    "oromo": "Afaan Oromo", 
+    "english": "English"
+  },
+  "menu": {
+    "title": "Baruumsa Herregaa",
+    "numbers": "Lakkoofsotaa fi Lakkaa'uu",
+    "shapes": "Boca fi Jiometriin",
+    "measurement": "Safartuu",
+    "data": "Daataa fi Gabatee"
+  },
+  "activities": {
+    "counting": {
+      "title": "Lakkaa'uu",
+      "instruction": "Wantoota lakkaa'iitii lakkoofsa sirrii filaadhaa",
+      "checkAnswer": "Deebii Mirkaneessi",
+      "next": "Itti Aanuu",
+      "correct": "Sirrii! Gaarii dha!",
+      "incorrect": "Ammas yaali!",
+      "exercises": {
+        "countStars": "Urjiilee lakkaa'i",
+        "countApples": "Poomii lakkaa'i",
+        "countCircles": "Geengoo lakkaa'i",
+        "countSquares": "Iskuweerii lakkaa'i"
+      }
+    },
+    "shapes": {
+      "title": "Bocawwan",
+      "instruction": "Kun boca kamii dha?",
+      "circle": "Geengoo",
+      "square": "Iskuweerii",
+      "triangle": "Rogaa Sadii",
+      "rectangle": "Rogaa Afur",
+      "exercises": {
+        "identifyShape": "Boca kana adda baasi",
+        "matchShape": "Bocawwan walitti qabi",
+        "findShape": "Boca barbaadi"
+      }
+    },
+    "addition": {
+      "title": "Ida'uu",
+      "instruction": "Lakkoofsota walitti ida'aa",
+      "plus": "ida'i",
+      "equals": "walqixa"
+    },
+    "subtraction": {
+      "title": "Hir'isuu",
+      "instruction": "Lakkoofsota hir'isaa",
+      "minus": "hir'isi",
+      "equals": "walqixa"
+    }
+  },
+  "numbers": {
+    "zero": "Duwwaa",
+    "one": "Tokko",
+    "two": "Lama",
+    "three": "Sadii",
+    "four": "Afur",
+    "five": "Shan",
+    "six": "Ja'a",
+    "seven": "Torba",
+    "eight": "Saddeet",
+    "nine": "Sagal",
+    "ten": "Kudhan"
+  },
+  "navigation": {
+    "back": "Duubatti",
+    "home": "Mana",
+    "settings": "Qindaa'ina",
+    "progress": "Guddina"
+  },
+  "feedback": {
+    "excellent": "Baay'ee gaarii!",
+    "great": "Hojii guddaa!",
+    "good": "Hojii gaarii!",
+    "tryAgain": "Ammas yaali!",
+    "almostThere": "Dhihaatte!"
+  }
+}
+

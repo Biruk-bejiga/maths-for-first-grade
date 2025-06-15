@@ -1,0 +1,88 @@
+{
+  "welcome": {
+    "title": "የሂሳብ ጨዋታ",
+    "subtitle": "በአማርኛ ሂሳብ ተማሩ",
+    "startLearning": "ትምህርት ጀምር",
+    "selectLanguage": "ቋንቋዎን ይምረጡ"
+  },
+  "languages": {
+    "amharic": "አማርኛ",
+    "oromo": "Afaan Oromo",
+    "english": "English"
+  },
+  "menu": {
+    "title": "የሂሳብ ትምህርት",
+    "numbers": "ቁጥሮች እና መቁጠር",
+    "shapes": "ቅርጾች እና ጂኦሜትሪ",
+    "measurement": "መለኪያ",
+    "data": "መረጃ እና ሰንጠረዦች"
+  },
+  "activities": {
+    "counting": {
+      "title": "መቁጠር",
+      "instruction": "ነገሮቹን ቁጠሩ እና ትክክለኛውን ቁጥር ይምረጡ",
+      "checkAnswer": "መልስ ይመርምሩ",
+      "next": "ቀጣይ",
+      "correct": "ትክክል! በጣም ጥሩ!",
+      "incorrect": "እንደገና ይሞክሩ!",
+      "exercises": {
+        "countStars": "ኮከቦቹን ቁጠሩ",
+        "countApples": "ፖሞቹን ቁጠሩ",
+        "countCircles": "ክቦቹን ቁጠሩ",
+        "countSquares": "ካሬዎቹን ቁጠሩ"
+      }
+    },
+    "shapes": {
+      "title": "ቅርጾች",
+      "instruction": "ይህ ምን ቅርጽ ነው?",
+      "circle": "ክብ",
+      "square": "ካሬ",
+      "triangle": "ሶስት ማዕዘን",
+      "rectangle": "አራት ማዕዘን",
+      "exercises": {
+        "identifyShape": "ይህንን ቅርጽ ይለዩ",
+        "matchShape": "ቅርጾቹን ያዛምዱ",
+        "findShape": "ቅርጹን ያግኙ"
+      }
+    },
+    "addition": {
+      "title": "መደመር",
+      "instruction": "ቁጥሮቹን አንድ ላይ ይደምሩ",
+      "plus": "ደመር",
+      "equals": "እኩል"
+    },
+    "subtraction": {
+      "title": "መቀነስ",
+      "instruction": "ቁጥሮቹን ይቀንሱ",
+      "minus": "ቀንስ",
+      "equals": "እኩል"
+    }
+  },
+  "numbers": {
+    "zero": "ዜሮ",
+    "one": "አንድ",
+    "two": "ሁለት",
+    "three": "ሶስት",
+    "four": "አራት",
+    "five": "አምስት",
+    "six": "ስድስት",
+    "seven": "ሰባት",
+    "eight": "ስምንት",
+    "nine": "ዘጠኝ",
+    "ten": "አስር"
+  },
+  "navigation": {
+    "back": "ተመለስ",
+    "home": "ቤት",
+    "settings": "ቅንብሮች",
+    "progress": "እድገት"
+  },
+  "feedback": {
+    "excellent": "በጣም ጥሩ!",
+    "great": "ድንቅ ስራ!",
+    "good": "ጥሩ ስራ!",
+    "tryAgain": "እንደገና ይሞክሩ!",
+    "almostThere": "ወደዚያ ደርሰዋል!"
+  }
+}
+
